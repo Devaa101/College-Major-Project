@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Title
-echo "=================================="
-echo " Secure Message Encryption Tool"
+echo "==============================================================="
+echo -e "\e[1;32mSecure Message Encryption Tool.\e[0m"
 echo -e "\e[31m------------------------------->by- Devaa.\e[0m"
-echo "=================================="
+echo "==============================================================="
 
 # Main Menu
 echo "1) Encrypt a Message"
