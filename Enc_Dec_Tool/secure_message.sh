@@ -3,6 +3,7 @@
 # Title
 echo "=================================="
 echo " Secure Message Encryption Tool"
+echo -e "\e[31m------------------------------->by- Devaa.\e[0m"
 echo "=================================="
 
 # Main Menu
